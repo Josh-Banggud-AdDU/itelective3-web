@@ -6,7 +6,7 @@
 
 ## About the Project
 <div align="justify">
-The Ateneo de Davao University - School of Nursing Patient Monitoring System is a system designed for nursing students of Ateneo de Davao University to manage and monitor patients in their duty. The bulk of the system handles patient management and sensor management with additional report compilation and login-logout system. The patient management system allows them to view their directory of patients, along with the option of adding, removing, and updating statuses of patients. Utilizing the sensor management system also has an option to organize sensors for monitoring each patient's vitals and compile them in each patient's medical records. Naturally, the system also has a student monitoring system used for logging in and out.
+The Ateneo de Davao University - School of Nursing: Patient Monitoring System is a system designed for nursing students of Ateneo de Davao University to manage and monitor patients in their duty. The bulk of the system handles patient management and sensor management with additional report compilation and login-logout system. The patient management system allows them to view their directory of patients, along with the option of adding, removing, and updating statuses of patients. Utilizing the sensor management system also has an option to organize sensors for monitoring each patient's vitals and compile them in each patient's medical records. Naturally, the system also has a student monitoring system used for logging in and out.
 </div>
 
 #### Subsystems
